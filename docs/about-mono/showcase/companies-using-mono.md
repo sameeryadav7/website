@@ -136,7 +136,7 @@ If your company uses Mono and would like to get it listed here, please contact [
 
 -   [Syltek Solutions](http://www.syltek.com/) runs all their reservation-management tools with Mono, with customers around the world.
 
--   [THR Support](https://thishosting.rocks/support/) uses Mono for their customer ticket-tracking system.
+-   [THR Support](https://thishosting.rocks/support/) & [Tricks Cage](https://trickcage.net/) uses Mono for their customer ticket-tracking system.
 
 -   [Vladster](https://vladster.net) Created IncoPOS - a desktop point of sale and inventory management system for Windows, Linux and macOS running on Mono. Their cloud service [IncoCloud](https://incocloud.com) runs on Linux using Mono and connects hundreds of branches in real-time. Their Android app [IncoDroid](http://incodroid.com) uses Xamarin and Mono and reuses most of the logic from IncoPOS.
 
